@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignIn</string>
+
+    <string name="blue_tooth_dialog_yes">是</string>
+    <string name="blue_tooth_dialog_no">否</string>
+    <string name="blue_tooth_dialog_title">是否打开蓝牙以进行签到?</string>
+</resources>
